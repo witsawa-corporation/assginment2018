@@ -1,4 +1,4 @@
-# Assginment 2018
+# Assignment 2018
 
 Web Application: Classwin Mini
 
